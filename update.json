@@ -1,27 +1,23 @@
 {
     "update_list": [
         {
-            "name": "规则",
+            "name": "detail_find_rule脚本",
             "id": 1,
-            "version": "V5.2",
-            "remote": "https://gitee.com/f11st/hiker/raw/master/agefans/command_rule.txt",
+            "version": "V1.0",
+            "remote": "海阔视界，本地文件￥file_url￥hiker://files/rules/detail_find_rule.js@https://raw.githubusercontent.com/guibiaoguo/ssr-public/master/detail_find_rule.js",
             "type": 1
         },
         {
-            "name": "脚本",
+            "name": "player_vip脚本",
             "id": 2,
-            "version": "V5.3",
-            "remote": "https://gitee.com/f11st/hiker/raw/master/agefans/command_js.txt",
+            "version": "V1.0",
+            "remote": "海阔视界，本地文件￥file_url￥hiker://files/rules/player_vip.js@https://raw.githubusercontent.com/guibiaoguo/ssr-public/master/player_vip.js",
             "type": 1
         }
     ],
-    "note": [
-        "♥去点个赞叭，<a href=\"https://haikuoshijie.cn/topic/3316\">反馈地址</a>",
-        "增加 收藏最新章节提示",
-        "增加 子页面",
-        "修复 解析vip线路",
-        "修复 更换域名",
-        "增加 isVideo标识"
+    "note":[
+        "增加解析vip线路",
+        "增加通用的detail_find_rule"
     ],
     "setting": []
 }
