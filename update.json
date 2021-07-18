@@ -1,0 +1,27 @@
+{
+    "update_list": [
+        {
+            "name": "规则",
+            "id": 1,
+            "version": "V5.2",
+            "remote": "https://gitee.com/f11st/hiker/raw/master/agefans/command_rule.txt",
+            "type": 1
+        },
+        {
+            "name": "脚本",
+            "id": 2,
+            "version": "V5.3",
+            "remote": "https://gitee.com/f11st/hiker/raw/master/agefans/command_js.txt",
+            "type": 1
+        }
+    ],
+    "note": [
+        "♥去点个赞叭，<a href=\"https://haikuoshijie.cn/topic/3316\">反馈地址</a>",
+        "增加 收藏最新章节提示",
+        "增加 子页面",
+        "修复 解析vip线路",
+        "修复 更换域名",
+        "增加 isVideo标识"
+    ],
+    "setting": []
+}
