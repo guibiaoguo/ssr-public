@@ -37,16 +37,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Hsck",
-      "name": "黄色仓库(爬虫)",
-      "type": 3,
-      "api": "csp_Hsck",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.dmmbus.fun/"
-    },
-    {
       "key": "csp_xpathali_ahhfs",
       "name": "ahhhhfs(EXO播放 XPathAli)",
       "type": 3,
@@ -91,31 +81,11 @@
       "name": "青豆(EXO播放 Legado)",
       "type": 3,
       "api": "csp_Legado",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mao.guibiaoguo.tk/qindou.json"
-    },
-    {
-      "key": "csp_GoIndex_gd",
-      "name": "谷歌硬盘",
-      "type": 3,
-      "api": "csp_GoIndex",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://mao.guibiaoguo.tk/goindex.json"
-    },
-    {
-      "key": "csp_Legado_gd",
-      "name": "谷歌硬盘_gd",
-      "type": 3,
-      "api": "csp_Legado",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://mao.guibiaoguo.tk/jsonpath.json"
-    },
+   },
    {
         "filterable": 1,
         "quickSearch": 1,
